@@ -87,7 +87,7 @@ public class PipeTest {
 class Params {
     protected static int numCreators = 10;
     protected static int numReceivers = 10;
-    protected static int BUF_SIZE = 5;
+    protected static int BUF_SIZE = 20;
     protected static int WORK_INTERVAL = 20; // Used by Workers to simulate a processing delay.
     protected static int TIME_OUT = 10000; // How long to run the test.
 

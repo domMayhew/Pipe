@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"ca.dominicmayhew.Pipe","l":"Pipe.AccessMode"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"ca.dominicmayhew.Pipe","l":"Pipe"},{"p":"ca.dominicmayhew.Pipe","l":"PipeTest"},{"p":"ca.dominicmayhew.Pipe","l":"ProcessingException"},{"p":"ca.dominicmayhew.Pipe","l":"Record"},{"p":"ca.dominicmayhew.Pipe","l":"Worker"}];updateSearchResults();
